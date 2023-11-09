@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @femidavid1
+- 👋 Hi, I’m Law
 - 👀 I’m interested in internships 
 - 🌱 I’m currently learning Dart and Flutter App Development 
 - 💞️ I’m looking to collaborate on app development projects
